@@ -37,7 +37,7 @@ def login():
     if username in USER_CREDENTIALS and USER_CREDENTIALS[username] == password:
         messagebox.showinfo("Login Success",f"Welcome {username}!")
     else :
-        messagebox.showerror("Login Failed, Invalid username or password.")
+        messagebox.showerror("Login Failed", "Invalid username or password.")
 
 #Clear Function
 def clear():
