@@ -153,9 +153,13 @@ Use Case:
 ◽ Can be extended into a complete finance management tool with analytics and charts.
 
 Concepts Used:
+
 ◽ Tkinter advanced widgets (Combobox, Listbox, Scrollbar, Frame).
+
 ◽ File handling with CSV for persistent data storage.
+
 ◽ Error handling and input validation.
+
 ◽ Functions for add, delete, clear, and total expense calculation.
 
 ✨ This collection is perfect for beginners exploring Python GUI programming and for those who want to practice real-world mini projects.
