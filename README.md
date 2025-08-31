@@ -5,12 +5,19 @@ This repository contains 7 Python GUI projects built with Tkinter. Each project 
 📖 Summary of Projects
 
 ◽ Simple GUI Greet – A personalized greeting app.
+
 ◽ Click Counter App – A button click counter with reset and exit.
+
 ◽ BMI Calculator – Calculates and classifies BMI.
+
 ◽ Drawing Pad App – A mini paint/doodle app with colors and brush control.
+
 ◽ Simple Login System – A basic credential-based login system.
+
 ◽ To-Do List App – A task manager with add, delete, and clear functionality.
+
 ◽ Expense Tracker App – Tracks expenses with persistent CSV storage.
+
 
 📌 Project 1: Simple GUI Greet
 
